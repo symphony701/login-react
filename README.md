@@ -6,7 +6,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
-### `npm server`
+### `npm run server`
 
 Initializes the server that consumes the application, run this first.
 
